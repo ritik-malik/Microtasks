@@ -8,12 +8,12 @@ The task is to generate an automated PDF using 2 github style markdown files
 
 ### Markdown files
 
-The markdown files are randomly chosen from [CHAOSS Evolution Working Group](https://github.com/chaoss/wg-evolution/tree/master/metrics)
+2 markdown files were randomly chosen from [CHAOSS Evolution Working Group](https://github.com/chaoss/wg-evolution/tree/master/metrics)
 
 ### PDF generation
 
 Pandoc has been used to generate LaTeX PDF from the markdown files. The reason to choose LaTeX is the vast amount of
-flexibilty it provides in the document, despite it's steep learning curve it is a terrific payback. Also, since the task
+flexibility it provides in the document, despite its steep learning curve it is a terrific payback. Also, since the task
 is based purely on automation, it makes sense to apply best effort beautification to the document & LaTeX serves as the best
 candidate for it.
 
@@ -21,7 +21,7 @@ Custom `.tex` files and themes have been used to achieve a sophisticated PDF. Th
 directly from Github. The improvement of this PDF over the default PDF print style is immense customization which helps to achieve a
 more professional looking document.
 
-#### Process
+### Process
 
 The repository contains various files, each of them is explained below in order :
 
@@ -36,9 +36,10 @@ section, fonts, etc.
 * `output.pdf` : This is the final PDF generated from the 2 markdown files
 
 
-#### Doubts :
+### Doubts :
 1. Addition/deletion in above text
-2. Should I add other microtasks & link to them
-3. Should I add a section for `Useful links`
+2. Add other microtasks & link to them
+3. Add a section for `Useful links`
+5. Add an `installation_guide.md`
 4. What next?
 
