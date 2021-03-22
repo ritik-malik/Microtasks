@@ -56,7 +56,7 @@ because it allows us to use any font installed in the system.
 section, fonts, etc.
 * `cover.tex` : Best level effort has been made to replicate the cover page of [Original Metrics Release](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-03.pdf) using this file
 * `pygments.theme` : This file contains theme for sections, text, code snippets
-* `output.pdf` : This is the [final PDF](output.pdf) generated from the 2 markdown files
+* `output.pdf` : This is the **[final PDF](output.pdf)** generated from the 2 markdown files
 
 ### Usage
 
@@ -64,14 +64,14 @@ section, fonts, etc.
 * This will create the PDF from the markdown files given as arguments. `n` number of files can be given as command line argument,
 it will automatically combine all of them in the given order
 
-#### [Final PDF generated](output.pdf)
+### Link to [Final PDF generated](output.pdf)
 
 ### Additional info
 
 Since the issue also involves the use of other languages, so I would like to point out that :
 * I've previously worked with automated translation of documents using [Google translate API](https://pypi.org/project/googletrans/),
 as a part of contribution to [hacktober fest](https://hacktoberfest.digitalocean.com/) under the org [Python world](https://github.com/Python-World).
-The repo can be found [here](https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts/API/Google-Py%20Translator), and the PR can be found at [here](https://github.com/Python-World/Python_and_the_Web/pull/542)
+The repo can be found [here](https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts/API/Google-Py%20Translator), and the PR can be found [here](https://github.com/Python-World/Python_and_the_Web/pull/542)
 * I also know basic spanish, (learned last year in the pandemic as an extra activity) might be of some help to me during the automated translations
 
 ### References
