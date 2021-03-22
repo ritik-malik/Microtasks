@@ -43,6 +43,15 @@ Custom `.tex` files and themes have been used to achieve a sophisticated PDF. Th
 directly from Github. The improvement of this PDF over the default PDF print style is cutting all the manual labour and immense customization which helps to achieve a
 more professional looking document.
 
+**Features added so far :**
+* Instead of generating single PDFs and then manually combining, this process generates a single PDF automatically
+* Any number of markdown files can be combined dynamically to generate a single PDF
+* Replicated the cover page in LaTeX
+* Improved table of content
+* Added headers with section and subsection references
+* Added color scheme for different section/subsections
+* Added background to differentiate code snippets
+
 ### Process
 
 The repository contains various files, each of them is explained below in order :
