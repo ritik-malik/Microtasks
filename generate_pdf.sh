@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pandoc -s Issue_Response_Time.md New_Contributors.md \
+pandoc -s $@ \
 	-f gfm \
 	-H template.tex \
 	-o output.pdf \

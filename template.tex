@@ -4,13 +4,16 @@
 \usepackage{amsfonts}
 \usepackage{hyperref}
 \usepackage{fancyvrb,newverbs,xcolor}
+
 \usepackage[margin=1in,a4paper]{geometry}
 
 \definecolor{sec}{RGB}{1, 57, 89}
 \definecolor{subsec}{RGB}{0,73,114}
 \definecolor{subsubsec}{RGB}{14,91,135}
 
+
 % \sectionfont{\underline\Huge\bfseries\clearpage}
+% remove underline
 \sectionfont{\color{sec}\Huge\bfseries\clearpage}
 \subsectionfont{\color{subsec}\LARGE}
 \subsubsectionfont{\color{subsubsec}\large}
@@ -37,13 +40,8 @@
 }
 
 \pagestyle{fancy}
-% \fancyhf{}
-% \lhead{Project tile}
-% \renewcommand{\headrulewidth}{2.0pt}
-% \renewcommand{\footrulewidth}{1.0pt} 
-% \rfoot{Page \thepage}
-% \lfoot{\leftmark}
 
+% to remove UPPERCASE from header
 \makeatletter
 \renewcommand{\sectionmark}[1]{%
   \markboth{\ifnum \c@secnumdepth>\z@
