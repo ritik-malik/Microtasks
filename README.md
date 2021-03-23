@@ -8,7 +8,7 @@ Attending the weekly community meeting and monthly web content meeting atleast o
 
 * Meetings attended :
     * Weekly community meeting : [March 16 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
-    * Weekly community meeting : March 23 2021 *(to be attended)*
+    * Weekly community meeting : [March 23 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Monthly web content : April 5 2021 *(to be attended)*
 
 Note : *This microtask will be updated accordingly*
