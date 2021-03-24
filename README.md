@@ -20,7 +20,10 @@ PRs made so far :
 |   PR  |   Result  |
 |-------|-----------|
 | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
-| [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | in review |
+| [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
+| [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
+
+Note: Used `typo_fixer` to automatically detect & fix typos in repos
 
 *Will be updated accordingly*
 
