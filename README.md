@@ -17,16 +17,16 @@ Note : *This microtask will be updated accordingly*
 
 PRs made so far :
 
-|   PR  |   Result  |
-|-------|-----------|
-| [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
-| [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
-| [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
-| [autofixed typos : task 1/5 #108](https://github.com/chaoss/wg-common/pull/108) | merged |
-| [autofixed typos : task 2/5 #401](https://github.com/chaoss/wg-evolution/pull/401) | merged |
-| [autofixed typos : task 3/5 #139](https://github.com/chaoss/wg-value/pull/139) | merged |
-| [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
-| [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
+|  S/N   |   PR  |   Status  |
+|--------|-------|-----------|
+|  1     | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
+|  2     | [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
+|  3     | [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
+|  4     | [autofixed typos : task 1/5 #108](https://github.com/chaoss/wg-common/pull/108) | merged |
+|  5     | [autofixed typos : task 2/5 #401](https://github.com/chaoss/wg-evolution/pull/401) | merged |
+|  6     | [autofixed typos : task 3/5 #139](https://github.com/chaoss/wg-value/pull/139) | merged |
+|  7     | [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
+|  8     | [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
 
 Note: Used [typo_fixer](https://github.com/ritik-malik/typo_fixer) to automatically detect & fix typos in repos
 
