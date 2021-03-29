@@ -28,6 +28,7 @@ PRs made so far :
 |  7     | [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
 |  8     | [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
 |  9     | [added GSoD students to mentorship page #584](https://github.com/chaoss/website/pull/584) | merged |
+|  10    | [fixed redirection of metric.md #109](https://github.com/chaoss/wg-common/pull/109) | merged |
 
 Note: Used [typo_fixer](https://github.com/ritik-malik/typo_fixer) to automatically detect & fix typos in repos
 
