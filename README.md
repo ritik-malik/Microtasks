@@ -17,18 +17,18 @@ Note : *This microtask will be updated accordingly*
 
 PRs made so far :
 
-|  S/N   |  CHAOSS Repository  |   PR  |   Status  |
-|--------|---------------------|-------|-----------|
-|  1     |  [website](https://github.com/chaoss/website) | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
-|  2     |  [website](https://github.com/chaoss/website) | [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
-|  3     |  [wg-risk](https://github.com/chaoss/wg-risk) | [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
-|  4     |  [wg-common](https://github.com/chaoss/wg-common)  | [autofixed typos : task 1/5 #108](https://github.com/chaoss/wg-common/pull/108) | merged |
-|  5     |  [wg-evolution](https://github.com/chaoss/wg-evolution)   | [autofixed typos : task 2/5 #401](https://github.com/chaoss/wg-evolution/pull/401) | merged |
-|  6     |  [wg-value](https://github.com/chaoss/wg-value)  | [autofixed typos : task 3/5 #139](https://github.com/chaoss/wg-value/pull/139) | merged |
-|  7     |  [wg-diversity-inclusion](https://github.com/chaoss/wg-diversity-inclusion)  | [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
-|  8     |  [community-handbook](https://github.com/chaoss/community-handbook)  | [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
-|  9     |  [website](https://github.com/chaoss/website)  | [added GSoD students to mentorship page #584](https://github.com/chaoss/website/pull/584) | merged |
-|  10    |  [wg-common](https://github.com/chaoss/wg-common)  | [fixed redirection of metric.md #109](https://github.com/chaoss/wg-common/pull/109) | merged |
+|   CHAOSS Repository  |   PR  |   Status  |
+|   -------------------|-------|-----------|
+|   [website](https://github.com/chaoss/website)  | [added GSoD students to mentorship page #584](https://github.com/chaoss/website/pull/584) | merged |
+|   [wg-common](https://github.com/chaoss/wg-common)  | [fixed redirection of metric.md #109](https://github.com/chaoss/wg-common/pull/109) | merged |
+|   [website](https://github.com/chaoss/website) | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
+|   [website](https://github.com/chaoss/website) | [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
+|   [wg-risk](https://github.com/chaoss/wg-risk) | [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
+|   [wg-common](https://github.com/chaoss/wg-common)  | [autofixed typos : task 1/5 #108](https://github.com/chaoss/wg-common/pull/108) | merged |
+|   [wg-evolution](https://github.com/chaoss/wg-evolution)   | [autofixed typos : task 2/5 #401](https://github.com/chaoss/wg-evolution/pull/401) | merged |
+|   [wg-value](https://github.com/chaoss/wg-value)  | [autofixed typos : task 3/5 #139](https://github.com/chaoss/wg-value/pull/139) | merged |
+|   [wg-diversity-inclusion](https://github.com/chaoss/wg-diversity-inclusion)  | [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
+|   [community-handbook](https://github.com/chaoss/community-handbook)  | [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
 
 Note: Used [typo_fixer](https://github.com/ritik-malik/typo_fixer) to automatically detect & fix typos in repos
 
