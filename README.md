@@ -21,6 +21,8 @@ PRs made so far :
 
 |   CHAOSS Repository  |   PR  |   Status  |
 |   -------------------|-------|-----------|
+|   [wg-value](https://github.com/chaoss/wg-value)  | [standardizing WG-value repository structure #142](https://github.com/chaoss/wg-value/pull/142) | merged |
+|   [wg-risk](https://github.com/chaoss/wg-risk)  | [Restructured the WG-risk according to the guidelines #124](https://github.com/chaoss/wg-risk/pull/124) | in review |
 |   [website](https://github.com/chaoss/website)  | [added GSoD students to mentorship page #584](https://github.com/chaoss/website/pull/584) | merged |
 |   [wg-common](https://github.com/chaoss/wg-common)  | [fixed redirection of metric.md #109](https://github.com/chaoss/wg-common/pull/109) | merged |
 |   [website](https://github.com/chaoss/website) | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
