@@ -10,8 +10,9 @@ Attending the weekly community meeting and monthly web content meeting atleast o
     * Weekly community meeting : [March 16 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Weekly community meeting : [March 23 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Weekly community meeting : [March 30 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
+    * Weekly community meeting : [April 06 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Biweekly wg-risk meeting : [April 01 2021](https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit)
-    * Monthly web content : April 5 2021 *(to be attended)*
+    * Monthly web content : [April 5 2021](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit)
 
 Note : *This microtask will be updated accordingly*
 
@@ -22,7 +23,7 @@ PRs made so far :
 |   CHAOSS Repository  |   PR  |   Status  |
 |   -------------------|-------|-----------|
 |   [wg-value](https://github.com/chaoss/wg-value)  | [standardizing WG-value repository structure #142](https://github.com/chaoss/wg-value/pull/142) | merged |
-|   [wg-risk](https://github.com/chaoss/wg-risk)  | [Restructured the WG-risk according to the guidelines #124](https://github.com/chaoss/wg-risk/pull/124) | in review |
+|   [wg-risk](https://github.com/chaoss/wg-risk)  | [Restructured the WG-risk according to the guidelines #124](https://github.com/chaoss/wg-risk/pull/124) | merged |
 |   [website](https://github.com/chaoss/website)  | [added GSoD students to mentorship page #584](https://github.com/chaoss/website/pull/584) | merged |
 |   [wg-common](https://github.com/chaoss/wg-common)  | [fixed redirection of metric.md #109](https://github.com/chaoss/wg-common/pull/109) | merged |
 |   [website](https://github.com/chaoss/website) | [Fixed typos in About page #566](https://github.com/chaoss/website/pull/566) | merged |
