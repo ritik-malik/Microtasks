@@ -10,9 +10,9 @@ Attending the weekly community meeting and monthly web content meeting atleast o
     * Weekly community meeting : [March 16 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Weekly community meeting : [March 23 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Weekly community meeting : [March 30 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
-    * Weekly community meeting : [April 06 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
     * Biweekly wg-risk meeting : [April 01 2021](https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit)
     * Monthly web content : [April 5 2021](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit)
+    * Weekly community meeting : [April 06 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
 
 Note : *This microtask will be updated accordingly*
 
@@ -43,7 +43,8 @@ Note: Used [typo_fixer](https://github.com/ritik-malik/typo_fixer) to automatica
 
 The task is to generate an automated PDF using 2 github style markdown files
 
-**add link to auto-pdf repo here**
+**Note: I tried to extend this microtask by automating the PDF release for entire Wg-common repository, instead of just 2 markdown files<br>**
+**The link to that repo is https://github.com/ritik-malik/auto-PDF-prototype**
 
 ### Markdown files
 
