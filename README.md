@@ -46,6 +46,8 @@ The task is to generate an automated PDF using 2 github style markdown files
 **Note: I tried to extend this microtask by automating the PDF release for entire Wg-common repository, instead of just 2 markdown files<br>**
 **The link to that repo is https://github.com/ritik-malik/auto-PDF-prototype**
 
+### Link to [Final PDF generated](output.pdf)
+
 ### Markdown files
 
 2 markdown files were randomly chosen from [CHAOSS Evolution Working Group](https://github.com/chaoss/wg-evolution/tree/master/metrics)
@@ -90,8 +92,6 @@ section, fonts, etc.
 * `./generate_pdf.sh Issue_Response_Time.md New_Contributors.md` 
 * This will create the PDF from the markdown files given as arguments. `n` number of files can be given as command line argument,
 it will automatically combine all of them in the given order
-
-### Link to [Final PDF generated](output.pdf)
 
 ### Additional info
 
