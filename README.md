@@ -13,6 +13,7 @@ Attending the weekly community meeting and monthly web content meeting atleast o
     * Biweekly wg-risk meeting : [April 01 2021](https://docs.google.com/document/d/1iqIMpLBwuKSnE0BbQTgbsb9Im87IoN7IUzukochClCw/edit)
     * Monthly web content : [April 5 2021](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit)
     * Weekly community meeting : [April 06 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
+    * Weekly community meeting : [April 13 2021](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
 
 Note : *This microtask will be updated accordingly*
 
